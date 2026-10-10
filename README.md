@@ -17,3 +17,6 @@ Download `ClipTimeFix-v0.1.0-beta.2-windows-x64.zip` from the [v0.1.0-beta.2 pre
 - Lightroom Classic workflow: not verified.
 
 See [Beta Test Guide](BETA_TEST_GUIDE.md) and [Known Limitations](KNOWN_LIMITATIONS.md). The ZIP contains third-party license and notice files. This beta notice is not a commercial-release clearance.
+## Support development
+
+ClipTimeFix is free to download and test. If you'd like to support continued development, you can make an optional donation on [Ko-fi](https://ko-fi.com/W6B32843F4). Donating is not required to use or test ClipTimeFix.
